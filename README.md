@@ -1,5 +1,6 @@
 # CrisprDNT
 Transformer-based Anti-noise Model for Predicting CRISPR-Cas9 Off-Target Activities.
+![image](https://github.com/gzrgzx/CrisprDNT/blob/main/model.png)
 
 PREREQUISITE
 
