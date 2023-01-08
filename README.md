@@ -27,7 +27,7 @@ Data Description:
 * CIRCLE_seq_10gRNA_wholeDataset->mismatches and indels
 * elevation_6gRNA_wholeDataset->miamatches and indels
 
-Code Description
+* Code Description
     * data_process(coding scheme)
         * create_coding_scheme.py->Create CrisprDNT, CRISPR_IP, CRISPR_Net and CNN_std encoding.
         * CnnCrispr_coding.py->Create CnnCrispr and CNN_std encoding.
@@ -42,4 +42,13 @@ Code Description
         * experiment.py->code to reproduce the experiments with CrisprDNT, CRISPR_IP, CRISPR_Net, CnnCrispr, CRISPR-OFFT and CNN_std
 
 saved_model Description:
-
+* encodedmismatchtype14x23Kleinstiver_5gRNAwithoutTsai.pkl+new_crispr_ip.h5->CrisprDNT trained in dataset5.
+* encodedmismatchtype14x23Kleinstiver_5gRNAwithoutTsai.pkl+NCEandRCE_new_crispr_ip.h5->CrisprDNT with NCE&RCE loss function trained in dataset5.
+* encodedmismatchtype14x23Kleinstiver_5gRNAwithoutTsai.pkl+NCEandMAE_new_crispr_ip.h5->CrisprDNT with NCE&MAE loss function trained in dataset5.
+* encodedmismatchtype14x23Kleinstiver_5gRNAwithoutTsai.pkl+sce_new_crispr_ip.h5->CrisprDNT with SCE loss function trained in dataset5.
+* encodedmismatchtype14x23Kleinstiver_5gRNAwithoutTsai.pkl+gce_new_crispr_ip.h5->CrisprDNT with GCE loss function trained in dataset5.
+* encodedmismatchtype14x23Listgarten_22gRNAwithoutTsai.pkl+new_crispr_ip.h5->CrisprDNT trained in dataset6.
+* encodedmismatchtype14x23Listgarten_22gRNAwithoutTsai.pkl+NCEandRCE_new_crispr_ip.h5->CrisprDNT with NCE&RCE loss function trained in dataset6.
+* encodedmismatchtype14x23Listgarten_22gRNAwithoutTsai.pkl+NCEandMAE_new_crispr_ip.h5->CrisprDNT with NCE&MAE loss function trained in dataset6.
+* encodedmismatchtype14x23Listgarten_22gRNAwithoutTsai.pkl+sce_new_crispr_ip.h5->CrisprDNT with SCE loss function trained in dataset6.
+* encodedmismatchtype14x23Listgarten_22gRNAwithoutTsai.pkl+gce_new_crispr_ip.h5->CrisprDNT with GCE loss function trained in dataset6.
