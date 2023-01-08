@@ -27,7 +27,7 @@ Data Description:
 * CIRCLE_seq_10gRNA_wholeDataset->mismatches and indels
 * elevation_6gRNA_wholeDataset->miamatches and indels
 
-* Code Description
+Code Description
     * data_process(coding scheme)
         * create_coding_scheme.py->Create CrisprDNT, CRISPR_IP, CRISPR_Net and CNN_std encoding.
         * CnnCrispr_coding.py->Create CnnCrispr and CNN_std encoding.
