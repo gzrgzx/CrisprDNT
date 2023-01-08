@@ -24,6 +24,8 @@ Data Description:
 * dataset6->Listgarten et al.(GUIDE-seq)
 * dataset7->Chuai et al.(GUIDE-Seq, Digenome-Seq,HTGTS,BLESS and IDLVs)
 * dataset8->Chuai et al.(GUIDE-Seq, Digenome-Seq,HTGTS,BLESS and IDLVs)
+* CIRCLE_seq_10gRNA_wholeDataset->mismatches and indels
+* elevation_6gRNA_wholeDataset->miamatches and indels
 
 * Code Description
     * data_process(coding scheme)
