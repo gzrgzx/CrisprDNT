@@ -41,3 +41,5 @@ Data Description:
     * train&test
         * experiment.py->code to reproduce the experiments with CrisprDNT, CRISPR_IP, CRISPR_Net, CnnCrispr, CRISPR-OFFT and CNN_std
 
+saved_model Description:
+
