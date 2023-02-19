@@ -18,7 +18,7 @@ Usage
 
 For a new dataset：
 * You can process the dataset by calling code/data_process/create_coding_scheme.py to get the coding format needed by CrisprDNT.
-* Once you have the coding format for the new dataset, you can train and test the dataset using Code/train&test/experiment.py, which contains the training procedure for CrisprDNT. The model architecture for CrisprDNT is described in detail in Code/model/model_network.py, which also contains other models for off-target prediction.
+* Once you have the coding format for the new dataset, you can train and test the dataset using code/train&test/experiment.py, which contains the training procedure for CrisprDNT. The model architecture for CrisprDNT is described in detail in code/model/model_network.py, which also contains other models for off-target prediction.
 
 Data Description:
 
