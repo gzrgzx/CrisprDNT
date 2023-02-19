@@ -36,7 +36,7 @@ Data Description:
         * analyse_mismatchposition&type.py->Analysis of the effect of mismatch position&type based on GUIDE-seq dataset.
         * analyse_mismatchposition.py->Analysis of the effect of mismatch position based on GUIDE-seq dataset.
         * analyse_type.py->Analysis of the effect of mismatch type based on GUIDE-seq dataset.
-    * data_analyse
+    * model
         * model_network.py->CrisprDNT network and anti-noise loss function code.
     * train&test
         * experiment.py->code to reproduce the experiments with CrisprDNT, CRISPR_IP, CRISPR_Net, CnnCrispr, CRISPR-OFFT and CNN_std
